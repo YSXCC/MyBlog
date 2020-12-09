@@ -1,7 +1,8 @@
 ---
 title: 如何用Xbox One 连接树莓派4B
 date: 2020-12-09 21:26:25
-tags: arvhives
+tags: embedded
+categories: 奇技淫巧
 ---
 
 # 前言

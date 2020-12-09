@@ -1,7 +1,8 @@
 ---
 title: 不知道是什么的Emmmm
 date: 2020-06-26 23:24:49
-tags: arvhives
+tags: other
+categories: 杂谈
 index_img: https://gitee.com/YSXCC/MDImage/raw/master/img/1585094253159.jpeg
 ---
 
