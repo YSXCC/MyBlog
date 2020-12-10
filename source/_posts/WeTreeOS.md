@@ -2,7 +2,8 @@
 title: WeTreeOS
 date: 2020-05-23 21:47:46
 tags: os code
-categories: 代码
+categories: 
+    [代码, 一个操作系统的实现]
 index_img: https://gitee.com/YSXCC/MDImage/raw/master/img/20200217165753.png
 ---
 
