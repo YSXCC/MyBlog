@@ -3,6 +3,7 @@ title: 如何用Xbox One 连接树莓派4B
 date: 2020-12-09 21:26:25
 tags: embedded
 categories: 奇技淫巧
+index_img: https://gitee.com/YSXCC/MDImage/raw/master/img/xbox.jpg
 ---
 
 # 前言
