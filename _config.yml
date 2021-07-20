@@ -107,5 +107,6 @@ deploy:
   # repository: git@github.com:YSXCC/ysxcc.github.io.git
   repository:
     github: git@github.com:YSXCC/ysxcc.github.io.git
-    gitee: git@gitee.com:YSXCC/YSXCC.git
+    # gitee: git@gitee.com:YSXCC/YSXCC.git
+    # coding: git@e.coding.net:omnitrix/blog/hexo.git
   branch: master

@@ -13,20 +13,20 @@ index_img: https://gitee.com/YSXCC/MDImage/raw/master/img/xbox.jpg
 # 环境准备
 
 ### 1. 查看树莓派内核版本
-![](https://gitee.com/YSXCC/MDImage/raw/master/img/树莓派内核版本.png)
+![](https://gitee.com/YSXCC/MDImage/raw/master/img/树莓派内核版本.webp)
 
 ### 2. 查看/usr/src下有没有对应的内核头（一定要一模一样），这个对编译驱动模块很重要
-![](https://gitee.com/YSXCC/MDImage/raw/master/img/20201206213933.png)
+![](https://gitee.com/YSXCC/MDImage/raw/master/img/20201206213933.webp)
 
 ### 3. 如果没有找到对应的内核头，就要去[树莓派的github](https://github.com/raspberrypi/linux)上下载
-![](https://gitee.com/YSXCC/MDImage/raw/master/img/20201206214524.png)
+![](https://gitee.com/YSXCC/MDImage/raw/master/img/20201206214524.webp)
 
 ### 4. 编译内核的问题就自己去百度，大概又是一个多小时的问题，如果有就利用ln软链接指令到编译内核需要的位置
 
 ### 5. 直接用蓝牙连接树莓派虽然可以连接上，但是不能读取到数据。所以感谢Github上的一个驱动[xpadneoatar-axis/xpadneo](https://github.com/atar-axis/xpadneo)。网站上面有完整的安装过程，其他人博客也说到了这个，但是没有说明内核版本的问题，差一点都不行。
 
 ### 6. 安装完成之后用lsmod查看是否加载了这个驱动
-![](https://gitee.com/YSXCC/MDImage/raw/master/img/20201206215210.png)
+![](https://gitee.com/YSXCC/MDImage/raw/master/img/20201206215210.webp)
 
 ### 7. 这样就可以连上XboxOne了
 
